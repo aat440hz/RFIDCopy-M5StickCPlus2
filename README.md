@@ -1,4 +1,4 @@
-# RFID Cloner for M5StickC Plus
+# RFID Cloner for M5StickC Plus2
 
 ## Overview
 
