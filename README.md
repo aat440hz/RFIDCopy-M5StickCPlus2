@@ -2,7 +2,7 @@
 
 ## Overview
 
-This RFID Cloner project is designed for the M5StickC Plus2, a portable and versatile ESP32-based development kit with a built-in display. The project allows you to read and clone MIFARE Classic RFID cards using an MFRC522 RFID module and the M5StickC Plus.
+This RFID Cloner project is designed for the M5StickC Plus2, a portable and versatile ESP32-based development kit with a built-in display. The project allows you to read and clone MIFARE Classic RFID cards using an MFRC522 RFID module and the M5StickC Plus2.
 
 ## Features
 
